@@ -1,4 +1,4 @@
-# E-LearningSite
+# E-Learning
 
 <h2>Overview</h2>
 This is a Python project made under SP subject in SEM4.<br/>
